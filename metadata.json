@@ -1,0 +1,5 @@
+{
+  "name": "SCC SAT Registration System",
+  "description": "Automated registration system for SCC SAT Exam (10th Std) with auto-seat generation and Google Sheets integration.",
+  "requestFramePermissions": []
+}
